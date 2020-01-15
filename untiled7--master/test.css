@@ -1,0 +1,25 @@
+h1{
+    color: #778899;
+
+    text-decoration: #778899;
+
+    margin-left: 40px;
+
+    border: 10px lightslategrey;
+
+    padding-left: 40px;
+
+    padding-right: 40px;
+
+    margin-right: 40px;
+
+    position: absolute;
+}
+p{
+    text-align: justify;
+    color: black;
+}
+h2{
+    text-align: right;
+    color: black;
+}
